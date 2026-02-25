@@ -3,6 +3,7 @@
 
 #include <iostream>
 #include "Student.h"
+#include "FunctiiGlobale.h"
 
 int main()
 {
